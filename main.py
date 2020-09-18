@@ -1,4 +1,4 @@
 import delete
 
 if __name__ == "__main__":
-	delete.greet()
+	delete.greet("a", "b")

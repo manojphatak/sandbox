@@ -1,7 +1,7 @@
 import os
 
-def greet(name):
-	print(f"hello {name}")
+def greet(name, lastname):
+	print(f"hello {name} {lastname}")
 	
 if __name__=="__main__":
-	greet("manoj")
+	greet("manoj") 
